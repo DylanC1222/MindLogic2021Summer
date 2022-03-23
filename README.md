@@ -8,4 +8,6 @@
 ### How me and my team accomplished each step of the machine learning project
 1. Created a Django-based Facebook Messenger chatbot hosted on Mindlogic servers (Led by my partner Jeeyoo Kim from Berkeley CS)
 2. Used KMeans to group responses interpreted by Google's Universal Sentence Encoder to group similar responses together (Led by me)
+The code is presented in kmeansCluster.ipynb
 3. Used Hugging Face's Transformers to create two PyTorch models based on Distilbert and Electra Small (Led by me)
+The code is presented in distilbertElectraModel.ipynb
