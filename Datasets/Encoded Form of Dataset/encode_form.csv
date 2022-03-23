@@ -1,0 +1,5 @@
+encode_form,form
+0,declarative
+1,interrogative
+2,negativeImperative
+3,positiveImperative
