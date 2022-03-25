@@ -1,5 +1,9 @@
 # My Main Project as a Software Engineer Intern at Mindlogic
 
+***
+
+The overarching goal was to gather data to help implement the English version of Mindlogic's conversational AI. We were meant to gather messages from normal English-speaking and then label all of these messages according to the company's message labeling conventions to be used to help determine the intent of the user sending messages. This would then help to determine a suitable response to the user at hand.
+
 ### The step-by-step plan behind my team's machine learning project at the company
 1. Gather roughly 50000 back-and-forth messages from a diverse set of American English-speaking users on Facebook's Messenger app using Mindlogic's conversation AI
 2. Group the gathered messsages into meaningful and distinct groups with roughly the same intent with as little overlap between each group as possible
